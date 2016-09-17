@@ -1,8 +1,8 @@
 var CACHE_NAME = 'my-site-cache-v1';
 var urlsToCache = [
-  '/',
-  '/css/style.css',
-  '/scripts/main.js'
+  '/service-worker-test/',
+  '/service-worker-test/css/style.css',
+  '/service-worker-test/scripts/main.js'
 ];
 
 console.log('Started', self);
